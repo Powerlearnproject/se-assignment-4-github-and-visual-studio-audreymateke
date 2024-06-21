@@ -16,7 +16,7 @@ Introduction to GitHub:
 
  How github supports collaborative software development:
 
-    - GitHub supports collaborative software development by providing a platform for version control, code sharing, issue tracking, and seamless collaboration among developers
+   -   GitHub supports collaborative software development by providing a platform for version control, code sharing, issue tracking, and seamless collaboration among developers
 
   Here are its key functions and features:
 
