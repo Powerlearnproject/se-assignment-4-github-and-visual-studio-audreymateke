@@ -157,7 +157,9 @@ GitHub Actions:
  - GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline. You can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production.
 
 Example of a simple CI/CD pipeline using GitHub Actions:
+
 1.  Create a Workflow File:
+   
   - In your GitHub repository, create a .github/workflows directory.
    - Add a YAML file (e.g., ci-cd.yml) to define your workflow1.
      
@@ -168,6 +170,7 @@ Example of a simple CI/CD pipeline using GitHub Actions:
     - Run tests (e.g., Jest, pytest).
     - Build artifacts (e.g., compiled code, Docker images).
    - Deploy to your target environment (e.g., Heroku, AWS, Azure)12.
+     
 3. Trigger Workflow on Events:
    -GitHub Actions can be triggered by various events:
    
@@ -179,7 +182,9 @@ Example of a simple CI/CD pipeline using GitHub Actions:
 4. Test and Deploy:
 
   -GitHub Actions will automatically execute your defined workflow when triggered.
+  
   Source:
+  
   <a href="https://github.blog/2022-02-02-build-ci-cd-pipeline-g ithub-actions-four-steps/">Github Blog</a>
   
    
@@ -190,14 +195,19 @@ Example of a simple CI/CD pipeline using GitHub Actions:
 Answer:
 
   - Visual Studio excels as a comprehensive IDE for building complex applications targeting multiple platforms, whereas Visual Studio Code shines as a lightweight, extensible code editor suited for web and cloud development.
+    
 DIFFERENCE BETWEEN VSCODE AND VISUAL STUDIO:
 
   1. Development Language Considerations
-    - Visual Studio: Optimal for projects requiring robust Microsoft support, especially those involving languages like HTML, CSS, JavaScript, C++, Python, and JSON. It excels when developing comprehensive full-stack applications.
-    - VSCode: Ideal for those embarking on cross-stack development ventures. Its versatility extends to a broad spectrum of languages, and it accommodates others seamlessly with the availability of suitable plug-ins.
-  2. Project Complexity Assessment
-    - Visual Studio: Tailored for projects characterized by rich graphical user interfaces (GUI), substantial memory demands, extensive lines of code (LOC), and intricate project management requirements. Conversely, it might be perceived as a more elaborate tool for everyday programming tasks.
-    - VSCode: Suited for less complex projects, scripting, and web development. Its efficiency shines when dealing with the routine demands of everyday programming.
+     
+   - Visual Studio: Optimal for projects requiring robust Microsoft support, especially those involving languages like HTML, CSS, JavaScript, C++, Python, and JSON. It excels when developing comprehensive full-stack applications.
+     
+   - VSCode: Ideal for those embarking on cross-stack development ventures. Its versatility extends to a broad spectrum of languages, and it accommodates others seamlessly with the availability of suitable plug-ins.
+  3. Project Complexity Assessment
+      
+   - Visual Studio: Tailored for projects characterized by rich graphical user interfaces (GUI), substantial memory demands, extensive lines of code (LOC), and intricate project management requirements. Conversely, it might be perceived as a more elaborate tool for everyday programming tasks.
+     
+   - VSCode: Suited for less complex projects, scripting, and web development. Its efficiency shines when dealing with the routine demands of everyday programming.
 
  Source :
   <a href="https://distantjob.com/blog/visual-studio-vs-visual-studio-code/">VS CODE vs VISUAL STUDIO</a>
