@@ -16,21 +16,21 @@ Introduction to GitHub:
 
  How github supports collaborative software development:
 
-   - GitHub supports collaborative software development by providing a platform for version control, code sharing, issue tracking, and seamless collaboration among developers
+    - GitHub supports collaborative software development by providing a platform for version control, code sharing, issue tracking, and seamless collaboration among developers
 
   Here are its key functions and features:
 
-   - Repository Hosting: GitHub allows you to store your code in repositories. These repositories serve as centralized locations for your project files, making it easy to manage and track changes over time.
+    - Repository Hosting: GitHub allows you to store your code in repositories. These repositories serve as centralized locations for your project files, making it easy to manage and track changes over time.
 
-   - Collaboration: Developers can work together on the same project by contributing to repositories. They can create branches, make changes, and submit pull requests for review.
+    - Collaboration: Developers can work together on the same project by contributing to repositories. They can create branches, make changes, and submit pull requests for review.
 
-   - Code Review: GitHub provides tools for reviewing code changes. Contributors can comment on specific lines, suggest improvements, and ensure code quality before merging.
+    - Code Review: GitHub provides tools for reviewing code changes. Contributors can comment on specific lines, suggest improvements, and ensure code quality before merging.
 
-   - Issue Tracking: You can create and manage issues (such as bugs or feature requests) within GitHub. This helps organize tasks, assign work, and track progress.
+    - Issue Tracking: You can create and manage issues (such as bugs or feature requests) within GitHub. This helps organize tasks, assign work, and track progress.
 
-   - Continuous Integration  and Continuous Deployment: GitHub integrates with CI/CD tools, allowing automated testing, building, and deployment of code changes.
+    - Continuous Integration  and Continuous Deployment: GitHub integrates with CI/CD tools, allowing automated testing, building, and deployment of code changes.
 
-   - Community Building: GitHub fosters community engagement through features like discussions, notifications, and team collaboration.
+    - Community Building: GitHub fosters community engagement through features like discussions, notifications, and team collaboration.
 
 SOURCE:
  MICROSOFT copilot
@@ -41,19 +41,20 @@ SOURCE:
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
 
   Answer: 
-   -A GitHub repository is a centralized location on GitHub where you can store and manage your code, files, and project data.
+  
+    - A GitHub repository is a centralized location on GitHub where you can store and manage your code, files, and project data.
 
 3. Version Control with Git:
 
-Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
+  Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
 
-The concept of version control in the context of Git:
+ The concept of version control in the context of Git:
 
   - Git is a Version Control System (VCS) designed to make it easier to have multiple versions of a code base, sometimes across multiple developers or teams.
   - It allows you to see changes you make to your code and easily revert them. 
   
 
- How does GitHub enhance version control for developers?
+  How does GitHub enhance version control for developers?
 
   
 
